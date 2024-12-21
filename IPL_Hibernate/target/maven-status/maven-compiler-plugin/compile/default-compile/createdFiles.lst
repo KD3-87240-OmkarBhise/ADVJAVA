@@ -1,0 +1,4 @@
+com\sunbeam\tester\TestHibernate.class
+com\sunbeam\entities\Team.class
+com\sunbeam\utils\HibernateUtils.class
+com\sunbeam\entities\BaseEntity.class
